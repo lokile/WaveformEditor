@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">waveformeditor</string>
+    <string name="import_button">Import</string>
+    <string name="export_button">Export</string>
+</resources>
